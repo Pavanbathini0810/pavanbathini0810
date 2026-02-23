@@ -2,7 +2,7 @@
 <!-- Replace YOUR_GITHUB_USERNAME with your actual username everywhere -->
 
 <h1 align="center">
-  Hi, I'm Pavan Kumar Bathini
+  Hi, I'm Pavan 
  
 </h1>
 
