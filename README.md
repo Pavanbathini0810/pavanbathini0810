@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Software Engineer · AWS Certified Solutions Architect · 4+ Years</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pavanbathini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pavan-kumar-bathini-35a615213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pavanbathini329@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
  
 </p>
@@ -97,5 +97,5 @@
 <p align="center">
   <i>Open to full-time Software Engineer roles. Let's build something great.</i><br/>
   <a href="mailto:pavanbathini329@gmail.com">📫 pavanbathini329@gmail.com</a> ·
-  <a href="https://linkedin.com/in/pavanbathini">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pavan-kumar-bathini-35a615213/">LinkedIn</a>
 </p>
