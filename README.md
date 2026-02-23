@@ -25,8 +25,7 @@
 - 🧪 **Testing:** Jest · Jasmine · Mocha · JUnit — 87% coverage on production systems
 - 🏗️ **Architecture:** Microservices · Domain-Driven Design · REST · Event-Driven Design
 - 🤖 **AI/ML:** Integrating machine learning and AI data solutions into production apps
-- 📍 Overland Park, KS — open to relocation
-
+  
 ---
 
 ### 🛠️ Tech Stack
