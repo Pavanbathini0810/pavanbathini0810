@@ -96,6 +96,6 @@
 
 <p align="center">
   <i>Open to full-time Software Engineer roles. Let's build something great.</i><br/>
-  <a href="mailto:pavankumarbathini@outlook.com">📫 pavankumarbathini@outlook.com</a> ·
+  <a href="mailto:pavanbathini329@gmail.com">📫 pavanbathini329@gmail.com</a> ·
   <a href="https://linkedin.com/in/pavanbathini">LinkedIn</a>
 </p>
