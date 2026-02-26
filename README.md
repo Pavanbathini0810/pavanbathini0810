@@ -82,10 +82,15 @@
 ### 💼 Experience Highlights
 
 **Software Engineer 2 @ McKinsey & Company** *(02/2025 – Present)*
-- ⚡ Cut page load times **40%** — React/Angular SPAs on AWS S3 + CloudFront
-- 📉 Reduced backend latency **35%** — Lambda + Step Functions + DynamoDB + Elasticsearch
-- 🚀 Accelerated releases **bi-weekly → daily** — Jenkins/GitHub Actions CI/CD with Jest + JUnit gates
-- 🏗️ Cut cloud provisioning **70%** — Terraform IaC + containerized ECS
+•Migrated legacy C#/.NET monolith to Dockerized Spring Boot microservices on Kubernetes (EKS), reducing cloud infrastructure costs by 30%
+and improving fault tolerance across distributed production services.
+• Reduced API response time by 45% by building high-throughput REST APIs with Spring Boot, Redis caching, and Kafka async processing,
+sustaining reliability for 50,000+ daily requests under peak traffic.
+• Re-engineered cloud data pipelines with AWS Glue, Redshift, and Python ETL for near real-time analytics, increasing marketing effectiveness
+by 22% and pricing optimization by 18%.
+• Increased deployment success rate by 40% by automating CI/CD pipelines with Terraform, Jenkins, and GitHub Actions; integrated Reactbased UI with secure Spring Boot microservice APIs.
+• Mentored engineers and led code reviews on backend security, testing automation, and observability best practices, reducing post-release
+incidents by 25%.
 
 **Full Stack Developer @ CueTech Systems** *(04/2020 – 06/2023)*
 - 🧩 Decomposed monolith → **6 microservices** using domain-driven design + REST
