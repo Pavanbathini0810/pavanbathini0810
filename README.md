@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-kumar-bathini-35a615213/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pavanbathini329@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-![Profile Views](https://komarev.com/ghpvc/?username=divakar007&color=4f8ef7&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Pavanbathini0810&color=4f8ef7&style=flat)
 
 ---
 
