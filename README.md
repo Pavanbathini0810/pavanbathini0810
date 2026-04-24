@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Software Engineer | Distributed Systems | Cloud & Microservices**  
 📍 Kansas City, MO  
-📧 pavanbathini08@gmail..com  
+📧 pavankumarbathini@outlook.com  
 🔗 [LinkedIn](https://linkedin.com/in/pavan-kumar-bathini-35a615213)  
 💻 [GitHub](https://github.com/Pavanbathini0810)
 
@@ -108,9 +108,9 @@ GPA: 3.6/4.0
 
 If you're hiring or want to collaborate on backend, distributed systems, or cloud projects:
 
-📩 Email: pavanbathini08@gmail.com  
+📩 Email: pavankumarbathini@outlook.com  
 🔗 LinkedIn: https://linkedin.com/in/pavan-kumar-bathini-35a615213  
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+
